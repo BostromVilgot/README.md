@@ -19,7 +19,7 @@ I love everything about IT security, ethical hacking and managing systems and ne
 
 - **Automation:** Ansible, Bash, YAML
 
-## 🧪 Virtual Lab
+## 🧪 Virtual Lab I MADE
 
 I’m building a lab to practice system administration, network segmentation and cybersecurity. I want to learn by doing hands-on work.
 
